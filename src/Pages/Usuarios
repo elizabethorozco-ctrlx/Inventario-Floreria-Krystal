@@ -1,0 +1,8 @@
+export default function Usuarios(){
+return (
+<div className="page">
+<h2>Usuarios</h2>
+<p>Gestión básica de usuarios (placeholder)</p>
+</div>
+)
+}
