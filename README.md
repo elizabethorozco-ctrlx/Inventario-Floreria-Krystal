@@ -12,7 +12,7 @@ App React para gestión básica de inventario: productos, movimientos, reportes 
 
 ## Ejecutar localmente
 1. `npm install`
-2. `npm start` (http://localhost:3000)
+2. `npm start` (http://localhost:5174/))
 
 ## Despliegue
 - Recomendado: Vercel (conectar repo GitHub)
