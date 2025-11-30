@@ -1,0 +1,6923 @@
+[
+  {
+    "id": 100000,
+    "nombre": "OASIS PIEZA CHICA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LCH",
+    "localidad": null
+  },
+  {
+    "id": 100001,
+    "nombre": "OASIS PIEZA MEDIANA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LESP",
+    "localidad": null
+  },
+  {
+    "id": 100002,
+    "nombre": "CORSAGE (123) (CONEJO LP)",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00123",
+    "localidad": null
+  },
+  {
+    "id": 100003,
+    "nombre": "CORSAGE (127) (TROLL LP)",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00127",
+    "localidad": null
+  },
+  {
+    "id": 100004,
+    "nombre": "CORSAGE (7014) (ARDILLA LP)",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC07014",
+    "localidad": null
+  },
+  {
+    "id": 100005,
+    "nombre": "CORSAGE (7015) ",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC07015",
+    "localidad": null
+  },
+  {
+    "id": 100006,
+    "nombre": "VARA DE BOLITAS LENTEJUELA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00117",
+    "localidad": null
+  },
+  {
+    "id": 100007,
+    "nombre": "OASIS JARDINERA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "PJARD",
+    "localidad": null
+  },
+  {
+    "id": 100008,
+    "nombre": "OASIS EN PLACA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "PCH",
+    "localidad": null
+  },
+  {
+    "id": 100009,
+    "nombre": "CORSAGE REGALO Y ESFERA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC07006",
+    "localidad": null
+  },
+  {
+    "id": 100010,
+    "nombre": "PLANTAS EN MACETERO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9904-2",
+    "localidad": null
+  },
+  {
+    "id": 100011,
+    "nombre": "MACETA DE ARBOL ",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9904-5",
+    "localidad": null
+  },
+  {
+    "id": 100012,
+    "nombre": "ÁRBO EN MACETA 1 CABEZA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "106DK001",
+    "localidad": null
+  },
+  {
+    "id": 100013,
+    "nombre": "ÁRBOL EN MACETA 3 CABEZAS",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "106DK003",
+    "localidad": null
+  },
+  {
+    "id": 100014,
+    "nombre": "CORONA NAVIDEÑA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00119",
+    "localidad": null
+  },
+  {
+    "id": 100015,
+    "nombre": "CORONA NAVIDEÑA CON NIEVE",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00311",
+    "localidad": null
+  },
+  {
+    "id": 100016,
+    "nombre": "ÁRBOL EN MACETA 2 CABEZAS",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "106DK002",
+    "localidad": null
+  },
+  {
+    "id": 100017,
+    "nombre": "ÁRBOL EN MACETA CON FLOR",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "20AB025-5",
+    "localidad": null
+  },
+  {
+    "id": 100018,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00918",
+    "localidad": null
+  },
+  {
+    "id": 100019,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00919",
+    "localidad": null
+  },
+  {
+    "id": 100020,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00885",
+    "localidad": null
+  },
+  {
+    "id": 100021,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00917",
+    "localidad": null
+  },
+  {
+    "id": 100022,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01151",
+    "localidad": null
+  },
+  {
+    "id": 100023,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01153",
+    "localidad": null
+  },
+  {
+    "id": 100024,
+    "nombre": "CORSAGE (PICK) NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01156",
+    "localidad": null
+  },
+  {
+    "id": 100025,
+    "nombre": "PICK VARA NAVIDAD 65 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873661,
+    "localidad": null
+  },
+  {
+    "id": 100026,
+    "nombre": "PICK VARA NAVIDAD 72 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873647,
+    "localidad": null
+  },
+  {
+    "id": 100027,
+    "nombre": "PICK VARA NAVIDAD 65 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873586,
+    "localidad": null
+  },
+  {
+    "id": 100028,
+    "nombre": "PICK VARA NAVIDAD 72 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873647,
+    "localidad": null
+  },
+  {
+    "id": 100029,
+    "nombre": "PICK VARA NAVIDA 73 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873555,
+    "localidad": null
+  },
+  {
+    "id": 100030,
+    "nombre": "PICK VARA NAVIDAD 58 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873517,
+    "localidad": null
+  },
+  {
+    "id": 100031,
+    "nombre": "PICK VARA NAVIDAD 42 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873494,
+    "localidad": null
+  },
+  {
+    "id": 100032,
+    "nombre": "PICK VARA NAVIDAD 80 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873432,
+    "localidad": null
+  },
+  {
+    "id": 100033,
+    "nombre": "PICK VARA NAVIDAD 76 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873425,
+    "localidad": null
+  },
+  {
+    "id": 100034,
+    "nombre": "VARA DE NAVIDAD 74 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5873401,
+    "localidad": null
+  },
+  {
+    "id": 100035,
+    "nombre": "PICK VARA NAVIDAD 70 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5873357",
+    "localidad": null
+  },
+  {
+    "id": 100036,
+    "nombre": "PICK VARA NAVIDAD 70 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5873340",
+    "localidad": null
+  },
+  {
+    "id": 100037,
+    "nombre": "PAPA NOEL ALARGADO 100 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5872572,
+    "localidad": null
+  },
+  {
+    "id": 100038,
+    "nombre": "PAPA NOEL 80 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5872565,
+    "localidad": null
+  },
+  {
+    "id": 100039,
+    "nombre": "PAPA NOEL ALARGADO 48 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5872558,
+    "localidad": null
+  },
+  {
+    "id": 100040,
+    "nombre": "ROSA GOMA EVA 7 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0247-Q",
+    "localidad": null
+  },
+  {
+    "id": 100041,
+    "nombre": "UVA VINO 30 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100297-2",
+    "localidad": null
+  },
+  {
+    "id": 100042,
+    "nombre": "UVA VERDE 30 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100297-1",
+    "localidad": null
+  },
+  {
+    "id": 100043,
+    "nombre": "UVA VINO 30 CM Y ROJA",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100290-3",
+    "localidad": null
+  },
+  {
+    "id": 100044,
+    "nombre": "UVA 30 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100290-1",
+    "localidad": null
+  },
+  {
+    "id": 100045,
+    "nombre": "UVA ROJA 22 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100276-4",
+    "localidad": null
+  },
+  {
+    "id": 100046,
+    "nombre": "UVA VERDE 22 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100276-1",
+    "localidad": null
+  },
+  {
+    "id": 100047,
+    "nombre": "UVA ROJA 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100269-4",
+    "localidad": null
+  },
+  {
+    "id": 100048,
+    "nombre": "UVA VINO 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100269-3",
+    "localidad": null
+  },
+  {
+    "id": 100049,
+    "nombre": "UVA MORADA 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100269-2",
+    "localidad": null
+  },
+  {
+    "id": 100050,
+    "nombre": "UVA VERDE 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100269-1",
+    "localidad": null
+  },
+  {
+    "id": 100051,
+    "nombre": "UVA VINO 16 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100262-4",
+    "localidad": null
+  },
+  {
+    "id": 100052,
+    "nombre": "UVA VERDE 16 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100262-2",
+    "localidad": null
+  },
+  {
+    "id": 100053,
+    "nombre": "UVA ROJA 16 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100262-1",
+    "localidad": null
+  },
+  {
+    "id": 100054,
+    "nombre": "UVA VINO 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2100255-4",
+    "localidad": null
+  },
+  {
+    "id": 100055,
+    "nombre": "UVA MORADA 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100255-3",
+    "localidad": null
+  },
+  {
+    "id": 100056,
+    "nombre": "UVA 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100255-1",
+    "localidad": null
+  },
+  {
+    "id": 100057,
+    "nombre": "UVA VINO 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100192-5",
+    "localidad": null
+  },
+  {
+    "id": 100058,
+    "nombre": "UVA ROJA 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100192-3",
+    "localidad": null
+  },
+  {
+    "id": 100059,
+    "nombre": "UVA VERDE 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "6100192-2",
+    "localidad": null
+  },
+  {
+    "id": 100060,
+    "nombre": "MACETA MINI VERDE 14 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7000998",
+    "localidad": null
+  },
+  {
+    "id": 100061,
+    "nombre": "MACETA MINI 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100991",
+    "localidad": null
+  },
+  {
+    "id": 100062,
+    "nombre": "MACETA MINI 12 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100956",
+    "localidad": null
+  },
+  {
+    "id": 100063,
+    "nombre": "MACETA MINI VERDE 12 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100942",
+    "localidad": null
+  },
+  {
+    "id": 100064,
+    "nombre": "MACETA MINI VERDE 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100914",
+    "localidad": null
+  },
+  {
+    "id": 100065,
+    "nombre": "MACETA MINI 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100907",
+    "localidad": null
+  },
+  {
+    "id": 100066,
+    "nombre": "MACETA MINI 18 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100900",
+    "localidad": null
+  },
+  {
+    "id": 100067,
+    "nombre": "MACETA MINI VERDE 16 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100893",
+    "localidad": null
+  },
+  {
+    "id": 100068,
+    "nombre": "MACETA MINI VERDE 16 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100879",
+    "localidad": null
+  },
+  {
+    "id": 100069,
+    "nombre": "MACETA MINI VERDE 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100871",
+    "localidad": null
+  },
+  {
+    "id": 100070,
+    "nombre": "MACETA MINI 18 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100829",
+    "localidad": null
+  },
+  {
+    "id": 100071,
+    "nombre": "MACETA MINI VERDE 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100815",
+    "localidad": null
+  },
+  {
+    "id": 100072,
+    "nombre": "MACETA MINI VERDE 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100808",
+    "localidad": null
+  },
+  {
+    "id": 100073,
+    "nombre": "MACETA MINI 14 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100794",
+    "localidad": null
+  },
+  {
+    "id": 100074,
+    "nombre": "MACETA MINI 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100780",
+    "localidad": null
+  },
+  {
+    "id": 100075,
+    "nombre": "MACETA MINI 20 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100773",
+    "localidad": null
+  },
+  {
+    "id": 100076,
+    "nombre": "MACETA MINI 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100766",
+    "localidad": null
+  },
+  {
+    "id": 100077,
+    "nombre": "MACETA MINI 15 CM",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "7100752",
+    "localidad": null
+  },
+  {
+    "id": 100078,
+    "nombre": "SERIE DE LUCES FRIA 100 ",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2490-100/B",
+    "localidad": null
+  },
+  {
+    "id": 100079,
+    "nombre": "SERIE DE LUCES CALIDA 100 ",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2490-100/C",
+    "localidad": null
+  },
+  {
+    "id": 100080,
+    "nombre": "SERIE DE LUCES CALIDA 300 ",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2492-300/C",
+    "localidad": null
+  },
+  {
+    "id": 100081,
+    "nombre": "SERIE DE LUCES CALIDA 500",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2492-500/C",
+    "localidad": null
+  },
+  {
+    "id": 100082,
+    "nombre": "GUIRNALDA DE LUCES FRIA (15 ESFERAS)",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G2511/B",
+    "localidad": null
+  },
+  {
+    "id": 100083,
+    "nombre": "GUIRNALDA DE LUCES FRIA (15 ESFERAS)",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G2511/C",
+    "localidad": null
+  },
+  {
+    "id": 100084,
+    "nombre": "SERIE DE LUCES CALIDA 100 ",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2485-100/C",
+    "localidad": null
+  },
+  {
+    "id": 100085,
+    "nombre": "SERIE DE LUCES FRIA 200",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2487-200/B",
+    "localidad": null
+  },
+  {
+    "id": 100086,
+    "nombre": "SERIE DE LUCES CALIDA 200",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "2487-200/C",
+    "localidad": null
+  },
+  {
+    "id": 100087,
+    "nombre": "ADORNO NAVIDEÑO",
+    "categoria": "A1",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G2077",
+    "localidad": null
+  },
+  {
+    "id": 100088,
+    "nombre": "ARBOL FICUS ARTESANAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FK00001",
+    "localidad": null
+  },
+  {
+    "id": 100089,
+    "nombre": "ARBOL BAMBÚ (150CM)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00065",
+    "localidad": null
+  },
+  {
+    "id": 100090,
+    "nombre": "DRACAENA (PALO DE BRASIL)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00071",
+    "localidad": null
+  },
+  {
+    "id": 100091,
+    "nombre": "GARRA DE LEON (PIÑANONA)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00068",
+    "localidad": null
+  },
+  {
+    "id": 100092,
+    "nombre": "PLANTA ARTIFICIAL VASTAGO X 3",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "002DK004",
+    "localidad": null
+  },
+  {
+    "id": 100093,
+    "nombre": "PLANTA ARTIFICIAL YUCA X 12",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "112DK001",
+    "localidad": null
+  },
+  {
+    "id": 100094,
+    "nombre": "ARBOL  ARTESANAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FK00002",
+    "localidad": null
+  },
+  {
+    "id": 100095,
+    "nombre": "ARBOL  ARTESANAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FK00003",
+    "localidad": null
+  },
+  {
+    "id": 100096,
+    "nombre": "PALMA (120 CM ALTO)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00224",
+    "localidad": null
+  },
+  {
+    "id": 100097,
+    "nombre": "ARBOL DE BAMBU EN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00676",
+    "localidad": null
+  },
+  {
+    "id": 100098,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA MIX",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 31531,
+    "localidad": null
+  },
+  {
+    "id": 100099,
+    "nombre": "PLANTA 18 HOJAS SIN MACETA MIX",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5822997,
+    "localidad": null
+  },
+  {
+    "id": 100100,
+    "nombre": "PLANTA 45 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111111,
+    "localidad": null
+  },
+  {
+    "id": 100101,
+    "nombre": "PLANTA 51 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111112,
+    "localidad": null
+  },
+  {
+    "id": 100102,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA MIX",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 31531,
+    "localidad": null
+  },
+  {
+    "id": 100103,
+    "nombre": "PLANTA 3 PALOS (1.7 51 HOJAS)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5842193,
+    "localidad": null
+  },
+  {
+    "id": 100104,
+    "nombre": "ARBOL NAVIDAD BCO/VDE",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5874729,
+    "localidad": null
+  },
+  {
+    "id": 100105,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 500002,
+    "localidad": null
+  },
+  {
+    "id": 100106,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 500003,
+    "localidad": null
+  },
+  {
+    "id": 100107,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 300527,
+    "localidad": null
+  },
+  {
+    "id": 100108,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300376-B",
+    "localidad": null
+  },
+  {
+    "id": 100109,
+    "nombre": "PLANTA ARTIFICIAL 2.5 M (PANDA S/C)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111113,
+    "localidad": null
+  },
+  {
+    "id": 100110,
+    "nombre": "PLANTA ARTIFICIAL 2.5 M (PANDA S/C)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111114,
+    "localidad": null
+  },
+  {
+    "id": 100111,
+    "nombre": "PLANTA 18 HOJA SIN MACETA (1127 CM)",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5151584,
+    "localidad": null
+  },
+  {
+    "id": 100112,
+    "nombre": "PLANTA 18 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5869640,
+    "localidad": null
+  },
+  {
+    "id": 100113,
+    "nombre": "PLANTA 18 HOJAS CON MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5842063-2",
+    "localidad": null
+  },
+  {
+    "id": 100114,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831531-5",
+    "localidad": null
+  },
+  {
+    "id": 100115,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831531-4",
+    "localidad": null
+  },
+  {
+    "id": 100116,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831531-3",
+    "localidad": null
+  },
+  {
+    "id": 100117,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831531-1",
+    "localidad": null
+  },
+  {
+    "id": 100118,
+    "nombre": "PLANTA 0.9 M 18 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5842087,
+    "localidad": null
+  },
+  {
+    "id": 100119,
+    "nombre": "PLANTA 0.9 M 18 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5842063-3",
+    "localidad": null
+  },
+  {
+    "id": 100120,
+    "nombre": "PLANTA 0.9 M 18 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5842063,
+    "localidad": null
+  },
+  {
+    "id": 100121,
+    "nombre": "PLANTA 0.9 M 18 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5842056,
+    "localidad": null
+  },
+  {
+    "id": 100122,
+    "nombre": "PLANTA 18 HOJAS 127 CM ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5151584,
+    "localidad": null
+  },
+  {
+    "id": 100123,
+    "nombre": "PLANTA X 15. 5",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831548-5",
+    "localidad": null
+  },
+  {
+    "id": 100124,
+    "nombre": "PLANTA X 15. 4",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831548-4",
+    "localidad": null
+  },
+  {
+    "id": 100125,
+    "nombre": "PLANTA X 15. 3",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831548-3",
+    "localidad": null
+  },
+  {
+    "id": 100126,
+    "nombre": "PLANTA X 15. 2",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831548-2",
+    "localidad": null
+  },
+  {
+    "id": 100127,
+    "nombre": "PLANTA X 15. 1",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5831548-1",
+    "localidad": null
+  },
+  {
+    "id": 100128,
+    "nombre": "PLANTA X 3/ SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5842193_1",
+    "localidad": null
+  },
+  {
+    "id": 100129,
+    "nombre": "ARBOL HIGUERA ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0441",
+    "localidad": null
+  },
+  {
+    "id": 100130,
+    "nombre": "PLANTA FILODRENDROS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0448",
+    "localidad": null
+  },
+  {
+    "id": 100131,
+    "nombre": "PLANTA MOSNTERA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0449",
+    "localidad": null
+  },
+  {
+    "id": 100132,
+    "nombre": "PLANTA SIN MACETA 68 CM",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867899,
+    "localidad": null
+  },
+  {
+    "id": 100133,
+    "nombre": "PLANTA SIN MACETA 68 CM",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867882,
+    "localidad": null
+  },
+  {
+    "id": 100134,
+    "nombre": "PLANTA CEREZO 7 VARAS ROSA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866113,
+    "localidad": null
+  },
+  {
+    "id": 100135,
+    "nombre": "PLANTA CEREZO 7 VARAS BLANCO",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866106,
+    "localidad": null
+  },
+  {
+    "id": 100136,
+    "nombre": "PLANTA 15 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5865895,
+    "localidad": null
+  },
+  {
+    "id": 100137,
+    "nombre": "PLANTA 15 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5865901,
+    "localidad": null
+  },
+  {
+    "id": 100138,
+    "nombre": "PLANTA SIN MACETA 128 CM",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5167868,
+    "localidad": null
+  },
+  {
+    "id": 100139,
+    "nombre": "PLANTA PANDURATA SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5167851,
+    "localidad": null
+  },
+  {
+    "id": 100140,
+    "nombre": "PLANTA PANDURATA SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5167844,
+    "localidad": null
+  },
+  {
+    "id": 100141,
+    "nombre": "PLANTA PANDURATA SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5167837,
+    "localidad": null
+  },
+  {
+    "id": 100142,
+    "nombre": "PLANTA X 18 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5166151,
+    "localidad": null
+  },
+  {
+    "id": 100143,
+    "nombre": "PLANTA FILODRENDROS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0446",
+    "localidad": null
+  },
+  {
+    "id": 100144,
+    "nombre": "PLANTA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 1006,
+    "localidad": null
+  },
+  {
+    "id": 100145,
+    "nombre": "PLANTA PALMERA 14 VARAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866441,
+    "localidad": null
+  },
+  {
+    "id": 100146,
+    "nombre": "PLANTA X 10 VARAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866007,
+    "localidad": null
+  },
+  {
+    "id": 100147,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5166403,
+    "localidad": null
+  },
+  {
+    "id": 100148,
+    "nombre": "PLANTA 12 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5166373,
+    "localidad": null
+  },
+  {
+    "id": 100149,
+    "nombre": "PLANTA 15 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5166359",
+    "localidad": null
+  },
+  {
+    "id": 100150,
+    "nombre": "PLANTA 15 HOJAS SIN MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5166342",
+    "localidad": null
+  },
+  {
+    "id": 100151,
+    "nombre": "PINO ARTIFICIAL 1.5",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "274HN",
+    "localidad": null
+  },
+  {
+    "id": 100152,
+    "nombre": "ARBOL LUCES 1.5",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "274GH",
+    "localidad": null
+  },
+  {
+    "id": 100153,
+    "nombre": "ARBOL LUCES 1.8",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "274GI",
+    "localidad": null
+  },
+  {
+    "id": 100154,
+    "nombre": "ARBOL 300 LUCES",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "274GG",
+    "localidad": null
+  },
+  {
+    "id": 100155,
+    "nombre": "PLANTA 33 HOJAS CON MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866236,
+    "localidad": null
+  },
+  {
+    "id": 100156,
+    "nombre": "PLANTA 63 HOJAS CON MACETA",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866120,
+    "localidad": null
+  },
+  {
+    "id": 100157,
+    "nombre": "PLANTA 80 CM ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "GO446-B",
+    "localidad": null
+  },
+  {
+    "id": 100158,
+    "nombre": "ARBOL MUSA 1.7 MT ",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0428",
+    "localidad": null
+  },
+  {
+    "id": 100159,
+    "nombre": "OREJA DE ELEFANTE",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0435",
+    "localidad": null
+  },
+  {
+    "id": 100160,
+    "nombre": "ARBOL BRASILEÑO",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0433",
+    "localidad": null
+  },
+  {
+    "id": 100161,
+    "nombre": "ARBOL 1.6 MT",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G0451 C-12",
+    "localidad": null
+  },
+  {
+    "id": 100162,
+    "nombre": "PLANTA X 21 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5866243,
+    "localidad": null
+  },
+  {
+    "id": 100163,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 3003736,
+    "localidad": null
+  },
+  {
+    "id": 100164,
+    "nombre": "PLANTA X 21 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300376-A",
+    "localidad": null
+  },
+  {
+    "id": 100165,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300304-H",
+    "localidad": null
+  },
+  {
+    "id": 100166,
+    "nombre": "PLANTA X 21 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300304-D",
+    "localidad": null
+  },
+  {
+    "id": 100167,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111116,
+    "localidad": null
+  },
+  {
+    "id": 100168,
+    "nombre": "PLANTA X 21 HOJAS",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111117,
+    "localidad": null
+  },
+  {
+    "id": 100169,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "A2",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111118,
+    "localidad": null
+  },
+  {
+    "id": 100170,
+    "nombre": "ARREGLO 1 SUCULENTA SURTIDA",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867547,
+    "localidad": null
+  },
+  {
+    "id": 100171,
+    "nombre": "ARREGLO 2 SUCULENTA SURTIDA",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867530,
+    "localidad": null
+  },
+  {
+    "id": 100172,
+    "nombre": "ARREGLO 3 SUCULENTA SURTIDA",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867479,
+    "localidad": null
+  },
+  {
+    "id": 100173,
+    "nombre": "ARREGLO 4 SUCULENTA SURTIDA",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867462,
+    "localidad": null
+  },
+  {
+    "id": 100174,
+    "nombre": "ARREGLO 5",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111119,
+    "localidad": null
+  },
+  {
+    "id": 100175,
+    "nombre": "ARREGLO 6",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111120,
+    "localidad": null
+  },
+  {
+    "id": 100176,
+    "nombre": "ARREGLO 7",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111121,
+    "localidad": null
+  },
+  {
+    "id": 100177,
+    "nombre": "ARREGLO 8",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111122,
+    "localidad": null
+  },
+  {
+    "id": 100178,
+    "nombre": "ARREGLO 9",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111123,
+    "localidad": null
+  },
+  {
+    "id": 100179,
+    "nombre": "ARREGLO 10",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111124,
+    "localidad": null
+  },
+  {
+    "id": 100180,
+    "nombre": "ARREGLO 11",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111125,
+    "localidad": null
+  },
+  {
+    "id": 100181,
+    "nombre": "ARREGLO 12",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111126,
+    "localidad": null
+  },
+  {
+    "id": 100182,
+    "nombre": "ARREGLO 13",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111127,
+    "localidad": null
+  },
+  {
+    "id": 100183,
+    "nombre": "ARREGLO 14",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111128,
+    "localidad": null
+  },
+  {
+    "id": 100184,
+    "nombre": "ARREGLO 15",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111129,
+    "localidad": null
+  },
+  {
+    "id": 100185,
+    "nombre": "ARREGLO 16",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111130,
+    "localidad": null
+  },
+  {
+    "id": 100186,
+    "nombre": "ARREGLO 17",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111131,
+    "localidad": null
+  },
+  {
+    "id": 100187,
+    "nombre": "ARREGLO 18",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111132,
+    "localidad": null
+  },
+  {
+    "id": 100188,
+    "nombre": "ARREGLO 19",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111133,
+    "localidad": null
+  },
+  {
+    "id": 100189,
+    "nombre": "ARREGLO 20",
+    "categoria": "A3",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 111134,
+    "localidad": null
+  },
+  {
+    "id": 100190,
+    "nombre": "BASE MACETA PLASTICO CH NO°5",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "ALICA",
+    "localidad": null
+  },
+  {
+    "id": 100191,
+    "nombre": "BASE MACETA PLASTICO MED NO°6",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "ALICA",
+    "localidad": null
+  },
+  {
+    "id": 100192,
+    "nombre": "BAS MACETA PLASTICO GDE NO°7",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "ALICA",
+    "localidad": null
+  },
+  {
+    "id": 100193,
+    "nombre": "BASE TRONCO ALTA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100194,
+    "nombre": "BASE TRONCO ANCHA (20 cm)",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100195,
+    "nombre": "BASE CONO 30X57",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100196,
+    "nombre": "BASE CHICA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100197,
+    "nombre": "BASE MEDIANA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100198,
+    "nombre": "BASE CANASTA ",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "ALICA",
+    "localidad": null
+  },
+  {
+    "id": 100199,
+    "nombre": "BASE GRANDE",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100200,
+    "nombre": "BASE JARRON CONO  CHICA ",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100201,
+    "nombre": "JUEGO DE BASES X 3",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100202,
+    "nombre": "BASE REDONDA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "CHAVA",
+    "localidad": null
+  },
+  {
+    "id": 100203,
+    "nombre": "MACETA ROSARITO CHO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-061",
+    "localidad": null
+  },
+  {
+    "id": 100204,
+    "nombre": "MACETA ROSARITO BLANCA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-157",
+    "localidad": null
+  },
+  {
+    "id": 100205,
+    "nombre": "MACETA ROSARITO CHO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-062",
+    "localidad": null
+  },
+  {
+    "id": 100206,
+    "nombre": "MACETA ROSARITO CHO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-049",
+    "localidad": null
+  },
+  {
+    "id": 100207,
+    "nombre": "MACETA SAYULITA CHO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-059",
+    "localidad": null
+  },
+  {
+    "id": 100208,
+    "nombre": "MACETA SAYULITA CHO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-060",
+    "localidad": null
+  },
+  {
+    "id": 100209,
+    "nombre": "MACETA TULANCINGO CHOCO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-040",
+    "localidad": null
+  },
+  {
+    "id": 100210,
+    "nombre": "MACETA URUAPAN CH. BLANCA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-001",
+    "localidad": null
+  },
+  {
+    "id": 100211,
+    "nombre": "MACETA ARANDAS BLANCO VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7035",
+    "localidad": null
+  },
+  {
+    "id": 100212,
+    "nombre": "MACETA VERACRUZ AZUL MARINO VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7067",
+    "localidad": null
+  },
+  {
+    "id": 100213,
+    "nombre": "MACETA OAXACA AMARILLO VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7082",
+    "localidad": null
+  },
+  {
+    "id": 100214,
+    "nombre": "MACETA TECATE TINTO VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7075",
+    "localidad": null
+  },
+  {
+    "id": 100215,
+    "nombre": "MACETA URUAPAN CH CHOCO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-000",
+    "localidad": null
+  },
+  {
+    "id": 100216,
+    "nombre": "MACETA TEQUILA POR BLANCA",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-130",
+    "localidad": null
+  },
+  {
+    "id": 100217,
+    "nombre": "MACETA TEXCOCO BLANCO VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7098",
+    "localidad": null
+  },
+  {
+    "id": 100218,
+    "nombre": "MACETA  VERACRUZ CHOCOLATE VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7061",
+    "localidad": null
+  },
+  {
+    "id": 100219,
+    "nombre": "MACETA OAXACA CHOCOLATE VINIL",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-7079",
+    "localidad": null
+  },
+  {
+    "id": 100220,
+    "nombre": "MACETA TUXTLA CHOC.",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MAC-078",
+    "localidad": null
+  },
+  {
+    "id": 100221,
+    "nombre": "MACETA DE PLASTICO",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "510",
+    "localidad": null
+  },
+  {
+    "id": 100222,
+    "nombre": "MACETA ARDILLA ECONOMICA #1",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#1",
+    "localidad": null
+  },
+  {
+    "id": 100223,
+    "nombre": "MACETA ARDILLA ECONOMICA #3",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#3",
+    "localidad": null
+  },
+  {
+    "id": 100224,
+    "nombre": "MACETA ARDILLA ECONOMICA #5",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#5",
+    "localidad": null
+  },
+  {
+    "id": 100225,
+    "nombre": "MACETA ARDILLA ECONOMICA #7",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#7",
+    "localidad": null
+  },
+  {
+    "id": 100226,
+    "nombre": "MACETA RATTAN RED #4",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#4",
+    "localidad": null
+  },
+  {
+    "id": 100227,
+    "nombre": "MACETA RATTAN RED DE 34.5 #2",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#2",
+    "localidad": null
+  },
+  {
+    "id": 100228,
+    "nombre": "MACETA RATTAN RED DE 34.5 #6",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#6",
+    "localidad": null
+  },
+  {
+    "id": 100229,
+    "nombre": "MACETA #8",
+    "categoria": "B4",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#8",
+    "localidad": null
+  },
+  {
+    "id": 100230,
+    "nombre": "RAMO  DE ROSAS X 6 (FC00049)",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00049",
+    "localidad": null
+  },
+  {
+    "id": 100231,
+    "nombre": "RAMO  CLAVEL X5(FC00437)",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01094",
+    "localidad": null
+  },
+  {
+    "id": 100232,
+    "nombre": "RAMO DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00724",
+    "localidad": null
+  },
+  {
+    "id": 100233,
+    "nombre": "RAMO DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00725",
+    "localidad": null
+  },
+  {
+    "id": 100234,
+    "nombre": "RAMO DALIA SATIN X 6",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00726",
+    "localidad": null
+  },
+  {
+    "id": 100235,
+    "nombre": "RAMO DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00728",
+    "localidad": null
+  },
+  {
+    "id": 100236,
+    "nombre": "DOCENA GIRASOL CENTRO CHICO X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00762",
+    "localidad": null
+  },
+  {
+    "id": 100237,
+    "nombre": "DOCENA DALIA SATIN X 5 ",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00767",
+    "localidad": null
+  },
+  {
+    "id": 100238,
+    "nombre": "RAMO DALIA CHICA X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00742",
+    "localidad": null
+  },
+  {
+    "id": 100239,
+    "nombre": "RAMO DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00740",
+    "localidad": null
+  },
+  {
+    "id": 100240,
+    "nombre": "RAMO DALIA SATIN X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00763",
+    "localidad": null
+  },
+  {
+    "id": 100241,
+    "nombre": "RAMO DALIA ORGANZA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00758",
+    "localidad": null
+  },
+  {
+    "id": 100242,
+    "nombre": "RAMO DALIA X 5 TORASOL",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00756",
+    "localidad": null
+  },
+  {
+    "id": 100243,
+    "nombre": "RAMO DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00764",
+    "localidad": null
+  },
+  {
+    "id": 100244,
+    "nombre": "DOCENA NOCHEBUENA TERC. FILO OROX 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00737",
+    "localidad": null
+  },
+  {
+    "id": 100245,
+    "nombre": "DOCENA NOCHEBUENA TERC. X 6",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00738",
+    "localidad": null
+  },
+  {
+    "id": 100246,
+    "nombre": "DOCENA BOTON X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "MX0041-1",
+    "localidad": null
+  },
+  {
+    "id": 100247,
+    "nombre": "DOCENA DALIA CHICA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00492",
+    "localidad": null
+  },
+  {
+    "id": 100248,
+    "nombre": "DOCENA DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00765",
+    "localidad": null
+  },
+  {
+    "id": 100249,
+    "nombre": "DOCENA DALIA TORNASOL X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00768",
+    "localidad": null
+  },
+  {
+    "id": 100250,
+    "nombre": "DOCENA DALIA SATIN X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00822",
+    "localidad": null
+  },
+  {
+    "id": 100251,
+    "nombre": "DOCENA DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00766",
+    "localidad": null
+  },
+  {
+    "id": 100252,
+    "nombre": "DOCENA DALIA X 5(FC00784)",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01083",
+    "localidad": null
+  },
+  {
+    "id": 100253,
+    "nombre": "DOCENA ALCATRAZ X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00783",
+    "localidad": null
+  },
+  {
+    "id": 100254,
+    "nombre": "DOCENA CEMPASUCHIL X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00100",
+    "localidad": null
+  },
+  {
+    "id": 100255,
+    "nombre": "DOCENA DALIA TORNASOL X5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00874",
+    "localidad": null
+  },
+  {
+    "id": 100256,
+    "nombre": "DOCENA DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00875",
+    "localidad": null
+  },
+  {
+    "id": 100257,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00876",
+    "localidad": null
+  },
+  {
+    "id": 100258,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00868",
+    "localidad": null
+  },
+  {
+    "id": 100259,
+    "nombre": "DOCENA DALIA/ ORGANZA",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00938",
+    "localidad": null
+  },
+  {
+    "id": 100260,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00940",
+    "localidad": null
+  },
+  {
+    "id": 100261,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00941",
+    "localidad": null
+  },
+  {
+    "id": 100262,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00937",
+    "localidad": null
+  },
+  {
+    "id": 100263,
+    "nombre": "NOCHE BUENA BORDE DORADO X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00733",
+    "localidad": null
+  },
+  {
+    "id": 100264,
+    "nombre": "NOCHE BUENA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00947",
+    "localidad": null
+  },
+  {
+    "id": 100265,
+    "nombre": "MINI NOCHE BUENA BORDE DORADO X 6",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00951",
+    "localidad": null
+  },
+  {
+    "id": 100266,
+    "nombre": "NOCHE BUENA X 6",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00848",
+    "localidad": null
+  },
+  {
+    "id": 100267,
+    "nombre": "RAMO DE DALIA X 5 ",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00956",
+    "localidad": null
+  },
+  {
+    "id": 100268,
+    "nombre": "RAMO DE DALIA X 5 ",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00957",
+    "localidad": null
+  },
+  {
+    "id": 100269,
+    "nombre": "RAMO DALIA/TORNASOL",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00963",
+    "localidad": null
+  },
+  {
+    "id": 100270,
+    "nombre": "RAMO DE DALIA X 5 ",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00294",
+    "localidad": null
+  },
+  {
+    "id": 100271,
+    "nombre": "RAMO DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01025",
+    "localidad": null
+  },
+  {
+    "id": 100272,
+    "nombre": "RAMO DE DALIA X 5 ",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01028",
+    "localidad": null
+  },
+  {
+    "id": 100273,
+    "nombre": "RAMO DE DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01065",
+    "localidad": null
+  },
+  {
+    "id": 100274,
+    "nombre": "NOCHE BUENA TERCIOPELO",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00946",
+    "localidad": null
+  },
+  {
+    "id": 100275,
+    "nombre": "NOCHE BUENA TERCIOPELO",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00949",
+    "localidad": null
+  },
+  {
+    "id": 100276,
+    "nombre": "NOCHE BUENA TERCIOPELO",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01075",
+    "localidad": null
+  },
+  {
+    "id": 100277,
+    "nombre": "RAMO DE ROSA X 5 ",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00556",
+    "localidad": null
+  },
+  {
+    "id": 100278,
+    "nombre": "DOCENA DE ROSA OTOÑAL X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01085",
+    "localidad": null
+  },
+  {
+    "id": 100279,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01191",
+    "localidad": null
+  },
+  {
+    "id": 100280,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01189",
+    "localidad": null
+  },
+  {
+    "id": 100281,
+    "nombre": "DOCENA DE GERBERA TORNASOL X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01187",
+    "localidad": null
+  },
+  {
+    "id": 100282,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01192",
+    "localidad": null
+  },
+  {
+    "id": 100283,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01195",
+    "localidad": null
+  },
+  {
+    "id": 100284,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01027",
+    "localidad": null
+  },
+  {
+    "id": 100285,
+    "nombre": "DOCENA DE ROSAL X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01021",
+    "localidad": null
+  },
+  {
+    "id": 100286,
+    "nombre": "DOCENA DE LILY X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01166",
+    "localidad": null
+  },
+  {
+    "id": 100287,
+    "nombre": "DOCENA DE GIRASOL GDE X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01279",
+    "localidad": null
+  },
+  {
+    "id": 100288,
+    "nombre": "DOCENA DE DALIA X 5 TORNASOL",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01300",
+    "localidad": null
+  },
+  {
+    "id": 100289,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01311",
+    "localidad": null
+  },
+  {
+    "id": 100290,
+    "nombre": "DOCENA DE ALCATRAZ X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01174",
+    "localidad": null
+  },
+  {
+    "id": 100291,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01313",
+    "localidad": null
+  },
+  {
+    "id": 100292,
+    "nombre": "DOCENA DE DALIA SATIN X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01315",
+    "localidad": null
+  },
+  {
+    "id": 100293,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01269",
+    "localidad": null
+  },
+  {
+    "id": 100294,
+    "nombre": "DOCENA DE NOCHE BUENA C/DIAMANT",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01283",
+    "localidad": null
+  },
+  {
+    "id": 100295,
+    "nombre": "DOCENA DE GIRASOL X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01271",
+    "localidad": null
+  },
+  {
+    "id": 100296,
+    "nombre": "DOCENA DE CECMPASUCHIL",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01429",
+    "localidad": null
+  },
+  {
+    "id": 100297,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01435",
+    "localidad": null
+  },
+  {
+    "id": 100298,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01302",
+    "localidad": null
+  },
+  {
+    "id": 100299,
+    "nombre": "DOCENA DE DALIA X 5",
+    "categoria": "R5",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01387",
+    "localidad": null
+  },
+  {
+    "id": 100300,
+    "nombre": "RAMO DE HELECHO JUMBO (70CM)",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00064",
+    "localidad": null
+  },
+  {
+    "id": 100301,
+    "nombre": "RAMO DE HOJA DE FICUS",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00099",
+    "localidad": null
+  },
+  {
+    "id": 100302,
+    "nombre": "RAMO HELECHO DE RIO (ANTES FC00332)",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00433",
+    "localidad": null
+  },
+  {
+    "id": 100303,
+    "nombre": "RAMO HELECHO DE RIO ",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 12029,
+    "localidad": null
+  },
+  {
+    "id": 100304,
+    "nombre": "FOLLAJE MIX",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00898",
+    "localidad": null
+  },
+  {
+    "id": 100305,
+    "nombre": "RAMO DE HOJA DE FICUS",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00897 (FC01263)",
+    "localidad": null
+  },
+  {
+    "id": 100306,
+    "nombre": "RAMO DE HELECHO GDE",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00939",
+    "localidad": null
+  },
+  {
+    "id": 100307,
+    "nombre": "RAMO DE HELECHO",
+    "categoria": "D6",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00904",
+    "localidad": null
+  },
+  {
+    "id": 100308,
+    "nombre": "ESFERA DÓLAR  (12CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00021",
+    "localidad": null
+  },
+  {
+    "id": 100309,
+    "nombre": "ESFERA MEDIANA (17CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00022",
+    "localidad": null
+  },
+  {
+    "id": 100310,
+    "nombre": "CORONA DE BUXUS (23CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00430",
+    "localidad": null
+  },
+  {
+    "id": 100311,
+    "nombre": "CORONA DE BUXUS GD (40CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00429",
+    "localidad": null
+  },
+  {
+    "id": 100312,
+    "nombre": "ESFERA JUMBO (27CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00023",
+    "localidad": null
+  },
+  {
+    "id": 100313,
+    "nombre": "ESFERA GRANDE BUXUS (35CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00024",
+    "localidad": null
+  },
+  {
+    "id": 100314,
+    "nombre": "ESFERA EG BUXUS  (20CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00519",
+    "localidad": null
+  },
+  {
+    "id": 100315,
+    "nombre": "TAPETE DOLAR CHICO (25X25CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00017",
+    "localidad": null
+  },
+  {
+    "id": 100316,
+    "nombre": "TAPETE DOBLE RELLENO (50X50CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00331",
+    "localidad": null
+  },
+  {
+    "id": 100317,
+    "nombre": "TAPETE PLASTICO (50X50CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00424",
+    "localidad": null
+  },
+  {
+    "id": 100318,
+    "nombre": "TAPETE SURTIDO (50X50CM)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00425",
+    "localidad": null
+  },
+  {
+    "id": 100319,
+    "nombre": "TAPETE PLASTICO 50X50CM",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00448",
+    "localidad": null
+  },
+  {
+    "id": 100320,
+    "nombre": "ESFERA BUXUS 22 CM DIAMETRO",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00166",
+    "localidad": null
+  },
+  {
+    "id": 100321,
+    "nombre": "TAPETE 40 X 60",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 17276,
+    "localidad": null
+  },
+  {
+    "id": 100322,
+    "nombre": "REJA 120 CM TELEFONO",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5834808,
+    "localidad": null
+  },
+  {
+    "id": 100323,
+    "nombre": "REJA 120 CM SANDIA",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5834518,
+    "localidad": null
+  },
+  {
+    "id": 100324,
+    "nombre": "REJA 120 CM UVA",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5850716,
+    "localidad": null
+  },
+  {
+    "id": 100325,
+    "nombre": "TAPETE 60X40 BOJ",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 101376,
+    "localidad": null
+  },
+  {
+    "id": 100326,
+    "nombre": "PANEL DE CESPED ARTIFICIAL ",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 84155651,
+    "localidad": null
+  },
+  {
+    "id": 100327,
+    "nombre": "BIOMBO",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 84155652,
+    "localidad": null
+  },
+  {
+    "id": 100328,
+    "nombre": "TAPETE  1 X 2",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 108004,
+    "localidad": null
+  },
+  {
+    "id": 100329,
+    "nombre": "TAPETE  1 X 2",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 108003,
+    "localidad": null
+  },
+  {
+    "id": 100330,
+    "nombre": "TAPETE DE FLOR ROSA 60X40",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851270,
+    "localidad": null
+  },
+  {
+    "id": 100331,
+    "nombre": "TAPETE DE FLOR BLANCO 60X40",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851263,
+    "localidad": null
+  },
+  {
+    "id": 100332,
+    "nombre": "TAPETE 60X40 ",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G8217",
+    "localidad": null
+  },
+  {
+    "id": 100333,
+    "nombre": "REJA",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "J50000440",
+    "localidad": null
+  },
+  {
+    "id": 100334,
+    "nombre": "REJA",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "J50000140",
+    "localidad": null
+  },
+  {
+    "id": 100335,
+    "nombre": "REJA (J500001)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5000540,
+    "localidad": null
+  },
+  {
+    "id": 100336,
+    "nombre": "REJA (J500004)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5000440,
+    "localidad": null
+  },
+  {
+    "id": 100337,
+    "nombre": "REJA (J500005)",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5000140,
+    "localidad": null
+  },
+  {
+    "id": 100338,
+    "nombre": "TAPETE BUXUS",
+    "categoria": "E7",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 101376,
+    "localidad": null
+  },
+  {
+    "id": 100339,
+    "nombre": "PLANTA C/12 HOJAS SURTIDO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00251",
+    "localidad": null
+  },
+  {
+    "id": 100340,
+    "nombre": "FOLLAJE COLGANTE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00164",
+    "localidad": null
+  },
+  {
+    "id": 100341,
+    "nombre": "HELECHO COLGANTE ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00406",
+    "localidad": null
+  },
+  {
+    "id": 100342,
+    "nombre": "HELECHO GRANDE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00046",
+    "localidad": null
+  },
+  {
+    "id": 100343,
+    "nombre": "HELECHO GRANDE 70CM",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00064",
+    "localidad": null
+  },
+  {
+    "id": 100344,
+    "nombre": "MIX DE FOLLAJES PLASTICO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00517",
+    "localidad": null
+  },
+  {
+    "id": 100345,
+    "nombre": "COLGANTE ECONOM CHICO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "PT-48",
+    "localidad": null
+  },
+  {
+    "id": 100346,
+    "nombre": "COLGANTE DE ORQUIDEA ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00645",
+    "localidad": null
+  },
+  {
+    "id": 100347,
+    "nombre": "COLGANTE AZUCENA PLASTICO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00654",
+    "localidad": null
+  },
+  {
+    "id": 100348,
+    "nombre": "MIX COLGANTE PLASTICO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00782",
+    "localidad": null
+  },
+  {
+    "id": 100349,
+    "nombre": "HELECHO JUMBO X18",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00717",
+    "localidad": null
+  },
+  {
+    "id": 100350,
+    "nombre": "HELECHO (43CM)",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00295",
+    "localidad": null
+  },
+  {
+    "id": 100351,
+    "nombre": "MIX FOLLAJES PLASTICO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00844",
+    "localidad": null
+  },
+  {
+    "id": 100352,
+    "nombre": "PALMA X18",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00481",
+    "localidad": null
+  },
+  {
+    "id": 100353,
+    "nombre": "RAMO EUCALIPTO X4",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00835",
+    "localidad": null
+  },
+  {
+    "id": 100354,
+    "nombre": "FOLLAJE DE HOJAS ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00877",
+    "localidad": null
+  },
+  {
+    "id": 100355,
+    "nombre": "COLGANTE DE FOLLAJE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00912",
+    "localidad": null
+  },
+  {
+    "id": 100356,
+    "nombre": "HELECHO X 18 ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00911",
+    "localidad": null
+  },
+  {
+    "id": 100357,
+    "nombre": "FOLLAJE HOJA MINI",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "JEC5845293",
+    "localidad": null
+  },
+  {
+    "id": 100358,
+    "nombre": "PLANTA MIXTA ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01047",
+    "localidad": null
+  },
+  {
+    "id": 100359,
+    "nombre": "FOLLAJE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851386,
+    "localidad": null
+  },
+  {
+    "id": 100360,
+    "nombre": "FOLLAJE PLANTA CHICA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851447,
+    "localidad": null
+  },
+  {
+    "id": 100361,
+    "nombre": "FOLLAJE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851393,
+    "localidad": null
+  },
+  {
+    "id": 100362,
+    "nombre": "FOLLAJE PLANTA CHICA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851409,
+    "localidad": null
+  },
+  {
+    "id": 100363,
+    "nombre": "FOLLAJE PLANTA CHICA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851416,
+    "localidad": null
+  },
+  {
+    "id": 100364,
+    "nombre": "FOLLAJE HOJA CHICA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851423,
+    "localidad": null
+  },
+  {
+    "id": 100365,
+    "nombre": "FOLLAJE HOJA CHICA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851430,
+    "localidad": null
+  },
+  {
+    "id": 100366,
+    "nombre": "FOLLAJE DE HOJAS X 18",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK2102-9",
+    "localidad": null
+  },
+  {
+    "id": 100367,
+    "nombre": "FOLLAJE DE HOJA X 9",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK09-3",
+    "localidad": null
+  },
+  {
+    "id": 100368,
+    "nombre": "HOJA DE ORQUIDEA X 5",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK3136",
+    "localidad": null
+  },
+  {
+    "id": 100369,
+    "nombre": "HOJA DE ORQUIDEA X 5",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK3138",
+    "localidad": null
+  },
+  {
+    "id": 100370,
+    "nombre": "FOLLAJE HOJA DE PALMA X17",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK11-13",
+    "localidad": null
+  },
+  {
+    "id": 100371,
+    "nombre": "FOLLAJE DE HOJA DE PALMA X 18",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK11-14",
+    "localidad": null
+  },
+  {
+    "id": 100372,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "J5000440",
+    "localidad": null
+  },
+  {
+    "id": 100373,
+    "nombre": "PLANTA ARTIFICIAL ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "J5000340",
+    "localidad": null
+  },
+  {
+    "id": 100374,
+    "nombre": "PLANTA ARTIFICIAL",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "J100623",
+    "localidad": null
+  },
+  {
+    "id": 100375,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900072-G",
+    "localidad": null
+  },
+  {
+    "id": 100376,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900072-F",
+    "localidad": null
+  },
+  {
+    "id": 100377,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900072-D",
+    "localidad": null
+  },
+  {
+    "id": 100378,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900072-B",
+    "localidad": null
+  },
+  {
+    "id": 100379,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 900072,
+    "localidad": null
+  },
+  {
+    "id": 100380,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900020-B",
+    "localidad": null
+  },
+  {
+    "id": 100381,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900020-A",
+    "localidad": null
+  },
+  {
+    "id": 100382,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900019-B",
+    "localidad": null
+  },
+  {
+    "id": 100383,
+    "nombre": "PLANTA",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900019-4",
+    "localidad": null
+  },
+  {
+    "id": 100384,
+    "nombre": "FOLLAJE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851447,
+    "localidad": null
+  },
+  {
+    "id": 100385,
+    "nombre": "FOLLAJE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851416,
+    "localidad": null
+  },
+  {
+    "id": 100386,
+    "nombre": "FOLLAJE",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851393,
+    "localidad": null
+  },
+  {
+    "id": 100387,
+    "nombre": "PLANTA ARTIFICIAL (PANDA SIN CODIGO EN FACTURA)",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "J5000340",
+    "localidad": null
+  },
+  {
+    "id": 100388,
+    "nombre": "HOJA DE ORQUIDEA X4",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK01-203",
+    "localidad": null
+  },
+  {
+    "id": 100389,
+    "nombre": "HOJA DE ORQUIDEA X 5",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK01-202",
+    "localidad": null
+  },
+  {
+    "id": 100390,
+    "nombre": "FOLLAJE 75 CM",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 7100171,
+    "localidad": null
+  },
+  {
+    "id": 100391,
+    "nombre": "FOLLAJE 75 CM",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 7100192,
+    "localidad": null
+  },
+  {
+    "id": 100392,
+    "nombre": "HELECHO OTOÑAL X 14",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00910",
+    "localidad": null
+  },
+  {
+    "id": 100393,
+    "nombre": "FOLLAJE 75 CM",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 7100745,
+    "localidad": null
+  },
+  {
+    "id": 100394,
+    "nombre": "FOLLAJE 75 CM",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 71000738,
+    "localidad": null
+  },
+  {
+    "id": 100395,
+    "nombre": "FOLLAJE 75 CM",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 71000178,
+    "localidad": null
+  },
+  {
+    "id": 100396,
+    "nombre": "MIX PINO DE PLASTICO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01059",
+    "localidad": null
+  },
+  {
+    "id": 100397,
+    "nombre": "FOLLAJE GYPSO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01159",
+    "localidad": null
+  },
+  {
+    "id": 100398,
+    "nombre": "FOLLAJE ",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "G1607",
+    "localidad": null
+  },
+  {
+    "id": 100399,
+    "nombre": "TALLO ORQUIDEA PEQUEÑO",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5869169,
+    "localidad": null
+  },
+  {
+    "id": 100400,
+    "nombre": "EUCALYPTUS",
+    "categoria": "F8",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01409",
+    "localidad": null
+  },
+  {
+    "id": 100401,
+    "nombre": "GUIA MINI ROSA",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00003",
+    "localidad": null
+  },
+  {
+    "id": 100402,
+    "nombre": "GUIA AZALEA",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00001",
+    "localidad": null
+  },
+  {
+    "id": 100403,
+    "nombre": "GUIA DE ROSA MEDIANA DE (200 CM)",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00467",
+    "localidad": null
+  },
+  {
+    "id": 100404,
+    "nombre": "GUIA HOJAS (ANTES F00281)",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00566",
+    "localidad": null
+  },
+  {
+    "id": 100405,
+    "nombre": "GUIA NOCHE BUENA DE TERCIOPELO",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00320",
+    "localidad": null
+  },
+  {
+    "id": 100406,
+    "nombre": "GUIA NOCHE BUENA METALICA",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00458",
+    "localidad": null
+  },
+  {
+    "id": 100407,
+    "nombre": "GUIA DE ROSA X 15 290CM",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00352",
+    "localidad": null
+  },
+  {
+    "id": 100408,
+    "nombre": "GUIA ROSAS 2.9MTS",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00573",
+    "localidad": null
+  },
+  {
+    "id": 100409,
+    "nombre": "GUIA HOJA DOBLE",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "003DK011",
+    "localidad": null
+  },
+  {
+    "id": 100410,
+    "nombre": "GUIA DE FLORES ",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "005DK001",
+    "localidad": null
+  },
+  {
+    "id": 100411,
+    "nombre": "GUIA ROSA VINTAGE",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00700",
+    "localidad": null
+  },
+  {
+    "id": 100412,
+    "nombre": "GUIA CEMPASUCHIL (290CM)(FC00608)",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01320",
+    "localidad": null
+  },
+  {
+    "id": 100413,
+    "nombre": "GUIA DE FOLLAJE",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00896",
+    "localidad": null
+  },
+  {
+    "id": 100414,
+    "nombre": "GUIA DE FOLLAJE",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00889",
+    "localidad": null
+  },
+  {
+    "id": 100415,
+    "nombre": "GUIA DE ROSA OTOÑAL ",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01088",
+    "localidad": null
+  },
+  {
+    "id": 100416,
+    "nombre": "GUIA DE ROSA OTOÑAL X 15",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01087",
+    "localidad": null
+  },
+  {
+    "id": 100417,
+    "nombre": "GUIA DE CLAVEL X 5",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01086",
+    "localidad": null
+  },
+  {
+    "id": 100418,
+    "nombre": "GUIA DE NOCHE BUENA TERCIOPELO",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01148",
+    "localidad": null
+  },
+  {
+    "id": 100419,
+    "nombre": "GUIA DE NOCHE BUENA TERCIOPELO",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01149",
+    "localidad": null
+  },
+  {
+    "id": 100420,
+    "nombre": "GUIA DE PINO DECORATIVA DE 2.70 MTRS",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01160",
+    "localidad": null
+  },
+  {
+    "id": 100421,
+    "nombre": "GUIA 2.70 MTRS ",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5875412,
+    "localidad": null
+  },
+  {
+    "id": 100422,
+    "nombre": "GUIA DE NOCHE BUENA TERCIOPELO B/D",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01284",
+    "localidad": null
+  },
+  {
+    "id": 100423,
+    "nombre": "CADENA DE NOCHE BUENA DE TERCIOP",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01285",
+    "localidad": null
+  },
+  {
+    "id": 100424,
+    "nombre": "GUIA DE CEMPASUCHIL",
+    "categoria": "G9",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01425",
+    "localidad": null
+  },
+  {
+    "id": 100425,
+    "nombre": "HENO ",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11011",
+    "localidad": null
+  },
+  {
+    "id": 100426,
+    "nombre": "MUSGO",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11013",
+    "localidad": null
+  },
+  {
+    "id": 100427,
+    "nombre": "CASPIA ",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11014",
+    "localidad": null
+  },
+  {
+    "id": 100428,
+    "nombre": "DÓLAR",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11015",
+    "localidad": null
+  },
+  {
+    "id": 100429,
+    "nombre": "BOUQUET DE COLORES",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11016",
+    "localidad": null
+  },
+  {
+    "id": 100430,
+    "nombre": "CORONA DE VARAS",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11017",
+    "localidad": null
+  },
+  {
+    "id": 100431,
+    "nombre": "CORONA CHICA",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11018",
+    "localidad": null
+  },
+  {
+    "id": 100432,
+    "nombre": "CORONA MEDIANA",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11019",
+    "localidad": null
+  },
+  {
+    "id": 100433,
+    "nombre": "PALMA CICA",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11020",
+    "localidad": null
+  },
+  {
+    "id": 100434,
+    "nombre": "BABY BLANCO ",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11021",
+    "localidad": null
+  },
+  {
+    "id": 100435,
+    "nombre": "GYPSO",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11022",
+    "localidad": null
+  },
+  {
+    "id": 100436,
+    "nombre": "MODROÑO",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11023",
+    "localidad": null
+  },
+  {
+    "id": 100437,
+    "nombre": "ANAHI",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11024",
+    "localidad": null
+  },
+  {
+    "id": 100438,
+    "nombre": "PAMPAS",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11025",
+    "localidad": null
+  },
+  {
+    "id": 100439,
+    "nombre": "CURLY WITILLO",
+    "categoria": "N11",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "11026",
+    "localidad": null
+  },
+  {
+    "id": 100440,
+    "nombre": "PASTO CON NIEVE",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00018",
+    "localidad": null
+  },
+  {
+    "id": 100441,
+    "nombre": "PASTO CON MARGARITA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00026",
+    "localidad": null
+  },
+  {
+    "id": 100442,
+    "nombre": "CEBOLLIN CHICO PLASTICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00359",
+    "localidad": null
+  },
+  {
+    "id": 100443,
+    "nombre": "FOLLAJE SURTIDO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00514",
+    "localidad": null
+  },
+  {
+    "id": 100444,
+    "nombre": "DÓLAR PLASTICO CHICO ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA5001",
+    "localidad": null
+  },
+  {
+    "id": 100445,
+    "nombre": "PASTO ESPIGA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA1907",
+    "localidad": null
+  },
+  {
+    "id": 100446,
+    "nombre": "CEBOLLIN CON FLOR DE TELA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA7001",
+    "localidad": null
+  },
+  {
+    "id": 100447,
+    "nombre": "CEBOLLIN CON BOLITAS",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA5008",
+    "localidad": null
+  },
+  {
+    "id": 100448,
+    "nombre": "CEBOLLIN CON MINI FLOR PLASTICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA5009",
+    "localidad": null
+  },
+  {
+    "id": 100449,
+    "nombre": "PASTO ESPIGA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA1907",
+    "localidad": null
+  },
+  {
+    "id": 100450,
+    "nombre": "PASTO X5 TIPO LECHUGA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA5012",
+    "localidad": null
+  },
+  {
+    "id": 100451,
+    "nombre": "PASTO X7",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA7005",
+    "localidad": null
+  },
+  {
+    "id": 100452,
+    "nombre": "CEBOLLIN CON CURLY LARGO (CH)",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA7004",
+    "localidad": null
+  },
+  {
+    "id": 100453,
+    "nombre": "CEBOLLIN CON FLOR PLASTICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA7009",
+    "localidad": null
+  },
+  {
+    "id": 100454,
+    "nombre": "CEBOLLIN CON NUBE TELA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "LPA5005",
+    "localidad": null
+  },
+  {
+    "id": 100455,
+    "nombre": "NUBE (37CM)",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00315",
+    "localidad": null
+  },
+  {
+    "id": 100456,
+    "nombre": "FOLLAJE PLASTICO LAVANDA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00559",
+    "localidad": null
+  },
+  {
+    "id": 100457,
+    "nombre": "FOLLAJE PLASTICO ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00558",
+    "localidad": null
+  },
+  {
+    "id": 100458,
+    "nombre": "FOLLAJE DE PLASTICO ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00557",
+    "localidad": null
+  },
+  {
+    "id": 100459,
+    "nombre": "MIX DE 15 FOLLAJES DE PLASTICO ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00561",
+    "localidad": null
+  },
+  {
+    "id": 100460,
+    "nombre": "FOLLAJE PLASTICO HOJA PARRA MINI",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "PT-36",
+    "localidad": null
+  },
+  {
+    "id": 100461,
+    "nombre": "FOLLAJE PLASTICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "PT-29",
+    "localidad": null
+  },
+  {
+    "id": 100462,
+    "nombre": "FOLLAJE LAVANDA PLASTICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "PT-39",
+    "localidad": null
+  },
+  {
+    "id": 100463,
+    "nombre": "PASTO LAVANDA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00672",
+    "localidad": null
+  },
+  {
+    "id": 100464,
+    "nombre": "FOLLAJE DE HOJAS PLASTICO X5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00658",
+    "localidad": null
+  },
+  {
+    "id": 100465,
+    "nombre": "MIX FOLLAJES PLASTICO X14 (FC00846)",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01060",
+    "localidad": null
+  },
+  {
+    "id": 100466,
+    "nombre": "MIX FOLLLAJES PLASTICO X5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00781",
+    "localidad": null
+  },
+  {
+    "id": 100467,
+    "nombre": "FOLLAJE PLASTICO X5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00661",
+    "localidad": null
+  },
+  {
+    "id": 100468,
+    "nombre": "RAMO SUCULENTAS PLASTICOX5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00657",
+    "localidad": null
+  },
+  {
+    "id": 100469,
+    "nombre": "FOLLAJE RAMO BERRIES X5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00862",
+    "localidad": null
+  },
+  {
+    "id": 100470,
+    "nombre": "FOLLAJE DE ESPIGA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00778",
+    "localidad": null
+  },
+  {
+    "id": 100471,
+    "nombre": "RAMO DE PINO ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00656",
+    "localidad": null
+  },
+  {
+    "id": 100472,
+    "nombre": "MIX FOLLAJES ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00882",
+    "localidad": null
+  },
+  {
+    "id": 100473,
+    "nombre": "MIX DE 15 FOLLAJES DE PLASTICO ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00895",
+    "localidad": null
+  },
+  {
+    "id": 100474,
+    "nombre": "FOLLAJE DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00879",
+    "localidad": null
+  },
+  {
+    "id": 100475,
+    "nombre": "FOLLAJES MIXTOS",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00890",
+    "localidad": null
+  },
+  {
+    "id": 100476,
+    "nombre": "FOLLAJES MIXTOS ",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00916",
+    "localidad": null
+  },
+  {
+    "id": 100477,
+    "nombre": "SUCULENTAS/ MIX",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01029",
+    "localidad": null
+  },
+  {
+    "id": 100478,
+    "nombre": "FOLLAJE MIX CHICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01092",
+    "localidad": null
+  },
+  {
+    "id": 100479,
+    "nombre": "FOLLAJE PLASTICO CON ALLIUM",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00845",
+    "localidad": null
+  },
+  {
+    "id": 100480,
+    "nombre": "FOLLAJE DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01058",
+    "localidad": null
+  },
+  {
+    "id": 100481,
+    "nombre": "FOLLAJE DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01043",
+    "localidad": null
+  },
+  {
+    "id": 100482,
+    "nombre": "FLOR MINI LAVANDA",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5870585,
+    "localidad": null
+  },
+  {
+    "id": 100483,
+    "nombre": "FLOR MINI LAVANDA COLOR",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5870578,
+    "localidad": null
+  },
+  {
+    "id": 100484,
+    "nombre": "FOLLAJE DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01030",
+    "localidad": null
+  },
+  {
+    "id": 100485,
+    "nombre": "RAMO DE EUCALIPTO DE PLASTICO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01258",
+    "localidad": null
+  },
+  {
+    "id": 100486,
+    "nombre": "FOLLAJE DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01253",
+    "localidad": null
+  },
+  {
+    "id": 100487,
+    "nombre": "FOLLAJE DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01252",
+    "localidad": null
+  },
+  {
+    "id": 100488,
+    "nombre": "FOLLAJE DE PLASTICO CH",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01260",
+    "localidad": null
+  },
+  {
+    "id": 100489,
+    "nombre": "FOLLAJE LAVANDA MORADO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 6368162,
+    "localidad": null
+  },
+  {
+    "id": 100490,
+    "nombre": "MIX FOLLAJE PINTADO",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01412",
+    "localidad": null
+  },
+  {
+    "id": 100491,
+    "nombre": "EUCALIPTO DE PLASTICO X 5",
+    "categoria": "P12",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01411",
+    "localidad": null
+  },
+  {
+    "id": 100492,
+    "nombre": "RAMO FLOR DE DURAZNO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00160",
+    "localidad": null
+  },
+  {
+    "id": 100493,
+    "nombre": "RAMO DE GLADIOLA SATIN X5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00339 FC00636",
+    "localidad": null
+  },
+  {
+    "id": 100494,
+    "nombre": "RAMO HORTENCIA MICROPEACH",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00371",
+    "localidad": null
+  },
+  {
+    "id": 100495,
+    "nombre": "RAMO DE FLOR DE JAZMIN X10",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00326",
+    "localidad": null
+  },
+  {
+    "id": 100496,
+    "nombre": "RAMO DE PEONY X7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00259",
+    "localidad": null
+  },
+  {
+    "id": 100497,
+    "nombre": "BOUQUET DE ROSAS X18",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00141",
+    "localidad": null
+  },
+  {
+    "id": 100498,
+    "nombre": "HORTENSIA X7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00275",
+    "localidad": null
+  },
+  {
+    "id": 100499,
+    "nombre": "RAMO FLOR DE DURAZNO X24",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00362",
+    "localidad": null
+  },
+  {
+    "id": 100500,
+    "nombre": "RAMO FLOR DE DURAZNO X36",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00398",
+    "localidad": null
+  },
+  {
+    "id": 100501,
+    "nombre": "RAMO  MIXTO SECO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00341",
+    "localidad": null
+  },
+  {
+    "id": 100502,
+    "nombre": "RAMO MIXTO MINI MARG Y MINIROSA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00549",
+    "localidad": null
+  },
+  {
+    "id": 100503,
+    "nombre": "RAMO LILY SATIN ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00518",
+    "localidad": null
+  },
+  {
+    "id": 100504,
+    "nombre": "RAMO HIDRAGEA X 7 (HORTENSIA FINO)",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "GBP-730",
+    "localidad": null
+  },
+  {
+    "id": 100505,
+    "nombre": "RAMO LILY SATIN X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00641",
+    "localidad": null
+  },
+  {
+    "id": 100506,
+    "nombre": "RAMO GIRASOL FINO X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00397",
+    "localidad": null
+  },
+  {
+    "id": 100507,
+    "nombre": "RAMO MINI GIRASOL X18 FL",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00532",
+    "localidad": null
+  },
+  {
+    "id": 100508,
+    "nombre": "RAMO GIRASOL FINO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00634 FC01120",
+    "localidad": null
+  },
+  {
+    "id": 100509,
+    "nombre": "RAMO ROSITA SATIN X 15",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00041",
+    "localidad": null
+  },
+  {
+    "id": 100510,
+    "nombre": "RAMO MIXTO ROSA Y MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00704",
+    "localidad": null
+  },
+  {
+    "id": 100511,
+    "nombre": "RAMO ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00706",
+    "localidad": null
+  },
+  {
+    "id": 100512,
+    "nombre": "RAMO CRISTANTEMO X7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00707",
+    "localidad": null
+  },
+  {
+    "id": 100513,
+    "nombre": "RAMO RANUCULUS (CAMELIAS) ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00712",
+    "localidad": null
+  },
+  {
+    "id": 100514,
+    "nombre": "COLGANTE LILY X 5 (90CM)",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00699",
+    "localidad": null
+  },
+  {
+    "id": 100515,
+    "nombre": "RAMO MIXTO ROSA Y MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00704",
+    "localidad": null
+  },
+  {
+    "id": 100516,
+    "nombre": "COLGANTE HORTENSIA X 5 (105CM)",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00702",
+    "localidad": null
+  },
+  {
+    "id": 100517,
+    "nombre": "RAMO GERBERA SATIN X 7 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00729",
+    "localidad": null
+  },
+  {
+    "id": 100518,
+    "nombre": "RAMO CRISTANTEMO X18",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00741",
+    "localidad": null
+  },
+  {
+    "id": 100519,
+    "nombre": "RAMO BOTON X 36",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00604",
+    "localidad": null
+  },
+  {
+    "id": 100520,
+    "nombre": "RAMO CRISANTEMO X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00671",
+    "localidad": null
+  },
+  {
+    "id": 100521,
+    "nombre": "RAMO BOTON JUMBO C VENA X 24",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00605",
+    "localidad": null
+  },
+  {
+    "id": 100522,
+    "nombre": "RAMO ROSA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00785",
+    "localidad": null
+  },
+  {
+    "id": 100523,
+    "nombre": "RAMO ROSA X 7 (5 FLORES)",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00770",
+    "localidad": null
+  },
+  {
+    "id": 100524,
+    "nombre": "RAMO PEONY GRANDE X 7 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00546",
+    "localidad": null
+  },
+  {
+    "id": 100525,
+    "nombre": "RAMO GIRASOL X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00565",
+    "localidad": null
+  },
+  {
+    "id": 100526,
+    "nombre": "COLGANTE LILY X 5 (62CM)",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00698",
+    "localidad": null
+  },
+  {
+    "id": 100527,
+    "nombre": "RAMO GLADIOLA X5 MAS ALTO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00753",
+    "localidad": null
+  },
+  {
+    "id": 100528,
+    "nombre": "RAMO MIX OTOÑAL",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00773",
+    "localidad": null
+  },
+  {
+    "id": 100529,
+    "nombre": "RAMO ROSAS X10 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00743",
+    "localidad": null
+  },
+  {
+    "id": 100530,
+    "nombre": "RAMO ROSAS X 10 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00618",
+    "localidad": null
+  },
+  {
+    "id": 100531,
+    "nombre": "RAMO CRISANTEMO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00797",
+    "localidad": null
+  },
+  {
+    "id": 100532,
+    "nombre": "RAMO COSMOS X18 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00670",
+    "localidad": null
+  },
+  {
+    "id": 100533,
+    "nombre": "RAMO BOTON X 10 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00787",
+    "localidad": null
+  },
+  {
+    "id": 100534,
+    "nombre": "RAMO BOTON X 10 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00646",
+    "localidad": null
+  },
+  {
+    "id": 100535,
+    "nombre": "RAMO FLOR X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9902-123",
+    "localidad": null
+  },
+  {
+    "id": 100536,
+    "nombre": "RAMO ROSA X7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9902-104",
+    "localidad": null
+  },
+  {
+    "id": 100537,
+    "nombre": "RAMO CLAVEL X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9902-121",
+    "localidad": null
+  },
+  {
+    "id": 100538,
+    "nombre": "RAMO ROSA X 10",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00796",
+    "localidad": null
+  },
+  {
+    "id": 100539,
+    "nombre": "RAMO ROSAS X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00801",
+    "localidad": null
+  },
+  {
+    "id": 100540,
+    "nombre": "RAMO ROSA X6 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00802",
+    "localidad": null
+  },
+  {
+    "id": 100541,
+    "nombre": "RAMO MINI BOTON X 28 F",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00804",
+    "localidad": null
+  },
+  {
+    "id": 100542,
+    "nombre": "RAMO CRISANT/ MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00810",
+    "localidad": null
+  },
+  {
+    "id": 100543,
+    "nombre": "RAMO BOTON X 5 10 FLORES",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00646",
+    "localidad": null
+  },
+  {
+    "id": 100544,
+    "nombre": "RAMO ROSA SATIN JUMBO X9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00080",
+    "localidad": null
+  },
+  {
+    "id": 100545,
+    "nombre": "RAMO CRISANTEMO X10F",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00841",
+    "localidad": null
+  },
+  {
+    "id": 100546,
+    "nombre": "RAMO BOTON/HORT FINO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00833",
+    "localidad": null
+  },
+  {
+    "id": 100547,
+    "nombre": "BOUQUET  BOTON SATIN X9 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00800",
+    "localidad": null
+  },
+  {
+    "id": 100548,
+    "nombre": "RAMO GERBERA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00840",
+    "localidad": null
+  },
+  {
+    "id": 100549,
+    "nombre": "RAMO TULIPAN CROCUS X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00839",
+    "localidad": null
+  },
+  {
+    "id": 100550,
+    "nombre": "RAMO ORQUIDEA X 5 VARAS",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00834",
+    "localidad": null
+  },
+  {
+    "id": 100551,
+    "nombre": "BOUQUET BOTON X 24",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00749",
+    "localidad": null
+  },
+  {
+    "id": 100552,
+    "nombre": "RAMO DALIA/HORTENSIA X 9 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00854",
+    "localidad": null
+  },
+  {
+    "id": 100553,
+    "nombre": "RAMO PEONY MICRO PEACH X7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00824",
+    "localidad": null
+  },
+  {
+    "id": 100554,
+    "nombre": "RAMO CLAVEL X18",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00823",
+    "localidad": null
+  },
+  {
+    "id": 100555,
+    "nombre": "RAMO GLADIOLA SATINADA X5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00858",
+    "localidad": null
+  },
+  {
+    "id": 100556,
+    "nombre": "RAMO ROSA CON LILY X9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00853",
+    "localidad": null
+  },
+  {
+    "id": 100557,
+    "nombre": "RAMO PEONY X6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00852",
+    "localidad": null
+  },
+  {
+    "id": 100558,
+    "nombre": "RAMO ROSAS X10",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00851",
+    "localidad": null
+  },
+  {
+    "id": 100559,
+    "nombre": "RAMO DE PEONY",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00705",
+    "localidad": null
+  },
+  {
+    "id": 100560,
+    "nombre": "RAMO MINI CRISANTEMO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00707",
+    "localidad": null
+  },
+  {
+    "id": 100561,
+    "nombre": "RAMO DE ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00842",
+    "localidad": null
+  },
+  {
+    "id": 100562,
+    "nombre": "RAMO DE ROSA  ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00850",
+    "localidad": null
+  },
+  {
+    "id": 100563,
+    "nombre": "RAMO CRISANTEMO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00856",
+    "localidad": null
+  },
+  {
+    "id": 100564,
+    "nombre": "RAMO DE TULIPAN CHANTU ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00838",
+    "localidad": null
+  },
+  {
+    "id": 100565,
+    "nombre": "RAMO MIXTO OTOÑAL",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00774",
+    "localidad": null
+  },
+  {
+    "id": 100566,
+    "nombre": "RAMO DE PEONY/ LILY X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00855",
+    "localidad": null
+  },
+  {
+    "id": 100567,
+    "nombre": "RAMO DE GIRASOL X 12",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00902",
+    "localidad": null
+  },
+  {
+    "id": 100568,
+    "nombre": "RAMO DE ROSA JUMBO X 8",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00905",
+    "localidad": null
+  },
+  {
+    "id": 100569,
+    "nombre": "RAMO FINO DE ROSA/LILY",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00903",
+    "localidad": null
+  },
+  {
+    "id": 100570,
+    "nombre": "RAMO BOTON DE ROSA X 30",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00922",
+    "localidad": null
+  },
+  {
+    "id": 100571,
+    "nombre": "RAMO DE ROSA JUMBO X 8",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00900",
+    "localidad": null
+  },
+  {
+    "id": 100572,
+    "nombre": "RAMO DE CLAVEL X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00808",
+    "localidad": null
+  },
+  {
+    "id": 100573,
+    "nombre": "RAMO DE MARGARITA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00927",
+    "localidad": null
+  },
+  {
+    "id": 100574,
+    "nombre": "RAMO DE MINI BOTON X 25",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00891",
+    "localidad": null
+  },
+  {
+    "id": 100575,
+    "nombre": "RAMO DE ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00706",
+    "localidad": null
+  },
+  {
+    "id": 100576,
+    "nombre": "RAMO DE ROSA Y MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00925",
+    "localidad": null
+  },
+  {
+    "id": 100577,
+    "nombre": "RAMO DE ROSA Y HORTENSIA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00892",
+    "localidad": null
+  },
+  {
+    "id": 100578,
+    "nombre": "RAMO DE ROSA X 10 F",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00926",
+    "localidad": null
+  },
+  {
+    "id": 100579,
+    "nombre": "RAMO DE ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00930",
+    "localidad": null
+  },
+  {
+    "id": 100580,
+    "nombre": "RAMO MIXTO FINO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00936",
+    "localidad": null
+  },
+  {
+    "id": 100581,
+    "nombre": "RAMITO DE AZALEA X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00932",
+    "localidad": null
+  },
+  {
+    "id": 100582,
+    "nombre": "RAMITO DE BOTON X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00931",
+    "localidad": null
+  },
+  {
+    "id": 100583,
+    "nombre": "RAMO MIXTO FINO X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00935",
+    "localidad": null
+  },
+  {
+    "id": 100584,
+    "nombre": "RAMO DE PEONY X 8",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00908",
+    "localidad": null
+  },
+  {
+    "id": 100585,
+    "nombre": "RAMO DE CRISANTEMO X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00630",
+    "localidad": null
+  },
+  {
+    "id": 100586,
+    "nombre": "RAMO MIXTO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00909",
+    "localidad": null
+  },
+  {
+    "id": 100587,
+    "nombre": "RAMO DE FLOR LISIANTHUS.",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00967",
+    "localidad": null
+  },
+  {
+    "id": 100588,
+    "nombre": "RAMO DE ROSA CON 12 F",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00863",
+    "localidad": null
+  },
+  {
+    "id": 100589,
+    "nombre": "RAMO DE CRISANTEMO X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00978",
+    "localidad": null
+  },
+  {
+    "id": 100590,
+    "nombre": "RAMO DE CRISANTEMO/ MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00798",
+    "localidad": null
+  },
+  {
+    "id": 100591,
+    "nombre": "RAMO DE ROSA GRANDE X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00924",
+    "localidad": null
+  },
+  {
+    "id": 100592,
+    "nombre": "RAMO OTOÑAL HORTENSIA/ROSA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00550",
+    "localidad": null
+  },
+  {
+    "id": 100593,
+    "nombre": "RAMO DE ROSA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00990",
+    "localidad": null
+  },
+  {
+    "id": 100594,
+    "nombre": "RAMO DE ROSA CON MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00985",
+    "localidad": null
+  },
+  {
+    "id": 100595,
+    "nombre": "RAMO DE CRISANTEMO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00933",
+    "localidad": null
+  },
+  {
+    "id": 100596,
+    "nombre": "RAMO DE MIXTO FINO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00986",
+    "localidad": null
+  },
+  {
+    "id": 100597,
+    "nombre": "RAMO MIXTO FINO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00987",
+    "localidad": null
+  },
+  {
+    "id": 100598,
+    "nombre": "RAMO DE ORQUIDEA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01011",
+    "localidad": null
+  },
+  {
+    "id": 100599,
+    "nombre": "RAMO DE DALIA X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01001",
+    "localidad": null
+  },
+  {
+    "id": 100600,
+    "nombre": "RAMO MINI FLOR",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "JEC5846405",
+    "localidad": null
+  },
+  {
+    "id": 100601,
+    "nombre": "RAMO PEONY",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "JEC5839469",
+    "localidad": null
+  },
+  {
+    "id": 100602,
+    "nombre": "RAMO FLOR  MINI NUBE",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "JEC5842933",
+    "localidad": null
+  },
+  {
+    "id": 100603,
+    "nombre": "FLOR MINI ROSA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "JEC5846313",
+    "localidad": null
+  },
+  {
+    "id": 100604,
+    "nombre": "RAMO DE ORQUIDEA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9076",
+    "localidad": null
+  },
+  {
+    "id": 100605,
+    "nombre": "RAMO MIXTO CHICO ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01017",
+    "localidad": null
+  },
+  {
+    "id": 100606,
+    "nombre": "RAMO FINO DE ROSA/HORT",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01078",
+    "localidad": null
+  },
+  {
+    "id": 100607,
+    "nombre": "RAMO DE ALCATRAZ X 3",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK9092",
+    "localidad": null
+  },
+  {
+    "id": 100608,
+    "nombre": "COLGANTE HORTENSIA X 15 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01120",
+    "localidad": null
+  },
+  {
+    "id": 100609,
+    "nombre": "RAMO DE DALIA X 7 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01098",
+    "localidad": null
+  },
+  {
+    "id": 100610,
+    "nombre": "RAMO DE PEONY Y LILY X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00997",
+    "localidad": null
+  },
+  {
+    "id": 100611,
+    "nombre": "RAMO MIXTO CHICO ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01015",
+    "localidad": null
+  },
+  {
+    "id": 100612,
+    "nombre": "RAMO DE JAZMIN X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01008",
+    "localidad": null
+  },
+  {
+    "id": 100613,
+    "nombre": "BOUQUET DE ROSA X 7 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00972",
+    "localidad": null
+  },
+  {
+    "id": 100614,
+    "nombre": "RAMO DE ROSA X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01099",
+    "localidad": null
+  },
+  {
+    "id": 100615,
+    "nombre": "RAMO DE ROSA X 10 F",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01108",
+    "localidad": null
+  },
+  {
+    "id": 100616,
+    "nombre": "RAMO DE PEONY X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01097",
+    "localidad": null
+  },
+  {
+    "id": 100617,
+    "nombre": "RAMO DE BOTON DE ROSA X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01104",
+    "localidad": null
+  },
+  {
+    "id": 100618,
+    "nombre": "RAMO DE GIRASOL X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01004",
+    "localidad": null
+  },
+  {
+    "id": 100619,
+    "nombre": "RAMO DE PEONY X 7 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01080",
+    "localidad": null
+  },
+  {
+    "id": 100620,
+    "nombre": "RAMO DE ROSA X 9 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01081",
+    "localidad": null
+  },
+  {
+    "id": 100621,
+    "nombre": "RAMO DE PEONY Y HORTENSIA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01124",
+    "localidad": null
+  },
+  {
+    "id": 100622,
+    "nombre": "RAMO DE MINI-BOTON X 15",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01133",
+    "localidad": null
+  },
+  {
+    "id": 100623,
+    "nombre": "RAMO DE HORTENSIA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01121",
+    "localidad": null
+  },
+  {
+    "id": 100624,
+    "nombre": "RAMO DE BOTON DE ROSA X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01115",
+    "localidad": null
+  },
+  {
+    "id": 100625,
+    "nombre": "RAMO DE RANUCULUS X 18",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01105",
+    "localidad": null
+  },
+  {
+    "id": 100626,
+    "nombre": "FLOR ROSA ARTIFICIAL",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#102",
+    "localidad": null
+  },
+  {
+    "id": 100627,
+    "nombre": "RAMO DE PEONY ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "#40",
+    "localidad": null
+  },
+  {
+    "id": 100628,
+    "nombre": "RAMO DE PEONY Y MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01113",
+    "localidad": null
+  },
+  {
+    "id": 100629,
+    "nombre": "RAMO DE PEONY X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01122",
+    "localidad": null
+  },
+  {
+    "id": 100630,
+    "nombre": "RAMO DE ROSA X 5 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01090",
+    "localidad": null
+  },
+  {
+    "id": 100631,
+    "nombre": "RAMO DE ROSA X 5 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01136",
+    "localidad": null
+  },
+  {
+    "id": 100632,
+    "nombre": "RAMO DE GLADIOLA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK01-24",
+    "localidad": null
+  },
+  {
+    "id": 100633,
+    "nombre": "RAMO DE ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK3157",
+    "localidad": null
+  },
+  {
+    "id": 100634,
+    "nombre": "RAMO DE ROSA X 5 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK09-36",
+    "localidad": null
+  },
+  {
+    "id": 100635,
+    "nombre": "RAMO DE CRISANTEMO X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00966",
+    "localidad": null
+  },
+  {
+    "id": 100636,
+    "nombre": "RAMO DE ROSA C/MARGARITA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01140",
+    "localidad": null
+  },
+  {
+    "id": 100637,
+    "nombre": "RAMO DE CRISANTEMO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01143",
+    "localidad": null
+  },
+  {
+    "id": 100638,
+    "nombre": "RAMO DE CEMPASUCHIL X 36",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01161",
+    "localidad": null
+  },
+  {
+    "id": 100639,
+    "nombre": "RAMO DE ESPIGA FOMMY X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00899",
+    "localidad": null
+  },
+  {
+    "id": 100640,
+    "nombre": "RAMO DE JAZMIN X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01134",
+    "localidad": null
+  },
+  {
+    "id": 100641,
+    "nombre": "RAMO DE GLADIOLA OTOÑAL",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01137",
+    "localidad": null
+  },
+  {
+    "id": 100642,
+    "nombre": "RAMO DE NOCHE BUENA X 7 TERCIOPELO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00735",
+    "localidad": null
+  },
+  {
+    "id": 100643,
+    "nombre": "RAMO DE NOCHE BUENA GDE X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00948",
+    "localidad": null
+  },
+  {
+    "id": 100644,
+    "nombre": "RAMO DE NOCHE BUENA METALICA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01145",
+    "localidad": null
+  },
+  {
+    "id": 100645,
+    "nombre": "RAMO DE HORTENSIA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5850969,
+    "localidad": null
+  },
+  {
+    "id": 100646,
+    "nombre": "RAMO DE HORTENSIA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5817177,
+    "localidad": null
+  },
+  {
+    "id": 100647,
+    "nombre": "RAMO FLOR MINI MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5872916-6",
+    "localidad": null
+  },
+  {
+    "id": 100648,
+    "nombre": "RAMO FLOR MINI MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5872916-5",
+    "localidad": null
+  },
+  {
+    "id": 100649,
+    "nombre": "RAMO FLOR MINI MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5872916-4",
+    "localidad": null
+  },
+  {
+    "id": 100650,
+    "nombre": "RAMO FLOR MINI MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5872916-3",
+    "localidad": null
+  },
+  {
+    "id": 100651,
+    "nombre": "RAMO FLOR MINI MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5872916-2",
+    "localidad": null
+  },
+  {
+    "id": 100652,
+    "nombre": "RAMO FLOR MINI MARGARITA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5872916-1",
+    "localidad": null
+  },
+  {
+    "id": 100653,
+    "nombre": "RAMO DE ALCATRAZ X 9 FOAMY",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01208",
+    "localidad": null
+  },
+  {
+    "id": 100654,
+    "nombre": "RAMO DE ROSA C/LILY",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01123",
+    "localidad": null
+  },
+  {
+    "id": 100655,
+    "nombre": "RAMO DE ROSA X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01103",
+    "localidad": null
+  },
+  {
+    "id": 100656,
+    "nombre": "RAMO DE BOTON OTOÑAL X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01141",
+    "localidad": null
+  },
+  {
+    "id": 100657,
+    "nombre": "RAMO DE FLOR",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "C900055",
+    "localidad": null
+  },
+  {
+    "id": 100658,
+    "nombre": "RAMO DE FLOR",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "C900053",
+    "localidad": null
+  },
+  {
+    "id": 100659,
+    "nombre": "RAMO DE ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01209",
+    "localidad": null
+  },
+  {
+    "id": 100660,
+    "nombre": "RAMO DE MINI ROSA X 15",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01100",
+    "localidad": null
+  },
+  {
+    "id": 100661,
+    "nombre": "RAMO DE ROSA MIXTO/LILY ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01125",
+    "localidad": null
+  },
+  {
+    "id": 100662,
+    "nombre": "RAMO DE GIRASOL",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00977",
+    "localidad": null
+  },
+  {
+    "id": 100663,
+    "nombre": "RAMO 52 CM BLANCO",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851713,
+    "localidad": null
+  },
+  {
+    "id": 100664,
+    "nombre": "RAMO FLOR DE DURAZNO X 30",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5869664,
+    "localidad": null
+  },
+  {
+    "id": 100665,
+    "nombre": "RAMO DE HORTENSIA CHAMPAN X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5852969,
+    "localidad": null
+  },
+  {
+    "id": 100666,
+    "nombre": "RAMO HORTENSIA BEIGE X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5817177,
+    "localidad": null
+  },
+  {
+    "id": 100667,
+    "nombre": "RAMO DE HORTENSIA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01223",
+    "localidad": null
+  },
+  {
+    "id": 100668,
+    "nombre": "RAMO FLOR DE DURAZNO X 36",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "RFD36",
+    "localidad": null
+  },
+  {
+    "id": 100669,
+    "nombre": "RAMO FLOR DE DURAZNO X 30",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5869664,
+    "localidad": null
+  },
+  {
+    "id": 100670,
+    "nombre": "RAMO DE BOTON DE ROSA X 18",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01237",
+    "localidad": null
+  },
+  {
+    "id": 100671,
+    "nombre": "RAMO DE ROSA SATINADA X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01236",
+    "localidad": null
+  },
+  {
+    "id": 100672,
+    "nombre": "RAMO DE ROSA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01246",
+    "localidad": null
+  },
+  {
+    "id": 100673,
+    "nombre": "RAMO DE ROSA X 5 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01245",
+    "localidad": null
+  },
+  {
+    "id": 100674,
+    "nombre": "RAMO DE ROSA SATINADA X 9",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01234",
+    "localidad": null
+  },
+  {
+    "id": 100675,
+    "nombre": "RAMO DE PEONY Y HORTENSIA ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01200",
+    "localidad": null
+  },
+  {
+    "id": 100676,
+    "nombre": "COLGANTE DE WISTHERIA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "WST-785",
+    "localidad": null
+  },
+  {
+    "id": 100677,
+    "nombre": "FLOR DE DURAZNO X 24",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "H9000",
+    "localidad": null
+  },
+  {
+    "id": 100678,
+    "nombre": "RAMO DE ALCATRAZ DE FOMY",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01274",
+    "localidad": null
+  },
+  {
+    "id": 100679,
+    "nombre": "RAMO DE PEONY X 7 SATINADA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01292",
+    "localidad": null
+  },
+  {
+    "id": 100680,
+    "nombre": "RAMO DE GERBERA X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01220",
+    "localidad": null
+  },
+  {
+    "id": 100681,
+    "nombre": "RAMO MINI-BOTON X 15",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01360",
+    "localidad": null
+  },
+  {
+    "id": 100682,
+    "nombre": "RAMO DE GIRASOL X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01338",
+    "localidad": null
+  },
+  {
+    "id": 100683,
+    "nombre": "RAMO DE ALCATRAZ X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01343",
+    "localidad": null
+  },
+  {
+    "id": 100684,
+    "nombre": "RAMITO DE ROSAS SATINADA X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01119",
+    "localidad": null
+  },
+  {
+    "id": 100685,
+    "nombre": "RAMO DE CRISANTEMO X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01380",
+    "localidad": null
+  },
+  {
+    "id": 100686,
+    "nombre": "RAMO DE GIRASOL X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01381",
+    "localidad": null
+  },
+  {
+    "id": 100687,
+    "nombre": "RAMO DE HORTENSIA X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01368",
+    "localidad": null
+  },
+  {
+    "id": 100688,
+    "nombre": "RAMO DE GIRASOL X 6",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01339",
+    "localidad": null
+  },
+  {
+    "id": 100689,
+    "nombre": "RAMO DE ROSA X 5 ",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01375",
+    "localidad": null
+  },
+  {
+    "id": 100690,
+    "nombre": "BOUQUET DE CRISANTEMO Y BOTON",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01344",
+    "localidad": null
+  },
+  {
+    "id": 100691,
+    "nombre": "RAMO DE FRESIA SATINADA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01102",
+    "localidad": null
+  },
+  {
+    "id": 100692,
+    "nombre": "RAMO DE ROSA SATINADA X 15",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01349",
+    "localidad": null
+  },
+  {
+    "id": 100693,
+    "nombre": "COLGANTE DE LILY X 4",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01241",
+    "localidad": null
+  },
+  {
+    "id": 100694,
+    "nombre": "RAMO DE ROSA Y BOTON X 5",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01373",
+    "localidad": null
+  },
+  {
+    "id": 100695,
+    "nombre": "RAMO DE LILY SATINADA X 11",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01229",
+    "localidad": null
+  },
+  {
+    "id": 100696,
+    "nombre": "RAMO MIX PEONIA/HORTENSIA",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01408",
+    "localidad": null
+  },
+  {
+    "id": 100697,
+    "nombre": "RAMO DE ROSAS GRANDE X 15",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01430",
+    "localidad": null
+  },
+  {
+    "id": 100698,
+    "nombre": "RAMO DE CRISANTEMO JUMBO X 7",
+    "categoria": "R13",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01438",
+    "localidad": null
+  },
+  {
+    "id": 100699,
+    "nombre": "VARA DE ORQUIDEA 51 CM NUEVA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00534 ",
+    "localidad": null
+  },
+  {
+    "id": 100700,
+    "nombre": "VARA DE ROSA X 5",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00400",
+    "localidad": null
+  },
+  {
+    "id": 100701,
+    "nombre": "VARA DE GIRASOL FINO X3",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00396",
+    "localidad": null
+  },
+  {
+    "id": 100702,
+    "nombre": "VARA DELFINIUM GRANDE ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 1946,
+    "localidad": null
+  },
+  {
+    "id": 100703,
+    "nombre": "VARA DE MINI ORQUIDEA X 3",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "GL-952",
+    "localidad": null
+  },
+  {
+    "id": 100704,
+    "nombre": "VARA DE ORQUIDEA SINGLE",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "GPL-6204",
+    "localidad": null
+  },
+  {
+    "id": 100705,
+    "nombre": "VARA ORQUIDEA SPTAY",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "GPL-6205",
+    "localidad": null
+  },
+  {
+    "id": 100706,
+    "nombre": "VARA GIRASOL X1 (72CM)",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00508",
+    "localidad": null
+  },
+  {
+    "id": 100707,
+    "nombre": "VARA GIRASOL X3 (90CM)",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00638",
+    "localidad": null
+  },
+  {
+    "id": 100708,
+    "nombre": "VARA GIRASOL X 5 (110CM)",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00543",
+    "localidad": null
+  },
+  {
+    "id": 100709,
+    "nombre": "VARA EUCALIPTO X4",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00745",
+    "localidad": null
+  },
+  {
+    "id": 100710,
+    "nombre": "VARA ORQUIDEA GOMA X 2",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "1004-5",
+    "localidad": null
+  },
+  {
+    "id": 100711,
+    "nombre": "VARA FLOR LILAC (97CM)",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00703",
+    "localidad": null
+  },
+  {
+    "id": 100712,
+    "nombre": "VARA DELPHINIUM ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00639",
+    "localidad": null
+  },
+  {
+    "id": 100713,
+    "nombre": "VARA GIRASOL X 3 SATIN ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00849",
+    "localidad": null
+  },
+  {
+    "id": 100714,
+    "nombre": "VARA LILY SATIN ARMAR",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00772",
+    "localidad": null
+  },
+  {
+    "id": 100715,
+    "nombre": "VARA DE PINO DE PLASTICO ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00825",
+    "localidad": null
+  },
+  {
+    "id": 100716,
+    "nombre": "VARA DE EUCALIPTO X5",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00965",
+    "localidad": null
+  },
+  {
+    "id": 100717,
+    "nombre": "VARA DE GIRASOL",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00961",
+    "localidad": null
+  },
+  {
+    "id": 100718,
+    "nombre": "VARA DELPHINIUM ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01014",
+    "localidad": null
+  },
+  {
+    "id": 100719,
+    "nombre": "VARA ORQUIDEA MARIPOSA X 8",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK2101-49",
+    "localidad": null
+  },
+  {
+    "id": 100720,
+    "nombre": "VARA GARRA DE LEON",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK-9080",
+    "localidad": null
+  },
+  {
+    "id": 100721,
+    "nombre": "VARA DE ORQUDIDEA CH",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK3260",
+    "localidad": null
+  },
+  {
+    "id": 100722,
+    "nombre": "VARA DE GIRASOL X 3",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC00974",
+    "localidad": null
+  },
+  {
+    "id": 100723,
+    "nombre": "VARA DE DELPHINIHUM",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01114",
+    "localidad": null
+  },
+  {
+    "id": 100724,
+    "nombre": "VARA DE MAGNOLIA ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5846252,
+    "localidad": null
+  },
+  {
+    "id": 100725,
+    "nombre": "VARA DE ORQUIDEA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5850211,
+    "localidad": null
+  },
+  {
+    "id": 100726,
+    "nombre": "VARA OTOÑAL FLOR ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01138",
+    "localidad": null
+  },
+  {
+    "id": 100727,
+    "nombre": "VARA DE FLOR DE DURAZNO OTOÑAL",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01005",
+    "localidad": null
+  },
+  {
+    "id": 100728,
+    "nombre": "VARA DE BOLITAS DE DIAMANTE",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01164",
+    "localidad": null
+  },
+  {
+    "id": 100729,
+    "nombre": "VARA DE CEREZO",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "21DK01-17",
+    "localidad": null
+  },
+  {
+    "id": 100730,
+    "nombre": "VARA DE TULIPAN",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "DK3109",
+    "localidad": null
+  },
+  {
+    "id": 100731,
+    "nombre": "VARA X 3 DE CEREZO CHAMPAN",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5852819,
+    "localidad": null
+  },
+  {
+    "id": 100732,
+    "nombre": "VARA DE ROSA 52 CM",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851751,
+    "localidad": null
+  },
+  {
+    "id": 100733,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 900163,
+    "localidad": null
+  },
+  {
+    "id": 100734,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 900132,
+    "localidad": null
+  },
+  {
+    "id": 100735,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "90032-B",
+    "localidad": null
+  },
+  {
+    "id": 100736,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "90032-A",
+    "localidad": null
+  },
+  {
+    "id": 100737,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "90019-B",
+    "localidad": null
+  },
+  {
+    "id": 100738,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "90019-A",
+    "localidad": null
+  },
+  {
+    "id": 100739,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900018-D",
+    "localidad": null
+  },
+  {
+    "id": 100740,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900018-C",
+    "localidad": null
+  },
+  {
+    "id": 100741,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900018-B",
+    "localidad": null
+  },
+  {
+    "id": 100742,
+    "nombre": "VARA DE NOCHE BUENA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "900018-A",
+    "localidad": null
+  },
+  {
+    "id": 100743,
+    "nombre": "VARA DE CEREZO X 3",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5852819,
+    "localidad": null
+  },
+  {
+    "id": 100744,
+    "nombre": "VARA DE RAMO BLANCO 52 CM",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5851713,
+    "localidad": null
+  },
+  {
+    "id": 100745,
+    "nombre": "VARA DE ORQUIDEA TOUCH",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5869183,
+    "localidad": null
+  },
+  {
+    "id": 100746,
+    "nombre": "FLOR LARGO BLANCO 95 CM ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "5849956-2",
+    "localidad": null
+  },
+  {
+    "id": 100747,
+    "nombre": "VARA G",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300533-G",
+    "localidad": null
+  },
+  {
+    "id": 100748,
+    "nombre": "VARA B",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300533-B",
+    "localidad": null
+  },
+  {
+    "id": 100749,
+    "nombre": "VARA A",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300527-A",
+    "localidad": null
+  },
+  {
+    "id": 100750,
+    "nombre": "VARA A ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300376-4",
+    "localidad": null
+  },
+  {
+    "id": 100751,
+    "nombre": "VARA DE ORQUIDEA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 300365,
+    "localidad": null
+  },
+  {
+    "id": 100752,
+    "nombre": "VARA DE ORQUIDEA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 300363,
+    "localidad": null
+  },
+  {
+    "id": 100753,
+    "nombre": "VARA DE ORQUIDEA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300363-A",
+    "localidad": null
+  },
+  {
+    "id": 100754,
+    "nombre": "VARA FLOR BLANCO 78 CM",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5869138,
+    "localidad": null
+  },
+  {
+    "id": 100755,
+    "nombre": "VARA PLUMA BLANCO",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867974,
+    "localidad": null
+  },
+  {
+    "id": 100756,
+    "nombre": "VARA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 300533,
+    "localidad": null
+  },
+  {
+    "id": 100757,
+    "nombre": "VARA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300533-J",
+    "localidad": null
+  },
+  {
+    "id": 100758,
+    "nombre": "VARA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "300533-C",
+    "localidad": null
+  },
+  {
+    "id": 100759,
+    "nombre": "VARA EUCALIPTO ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867851,
+    "localidad": null
+  },
+  {
+    "id": 100760,
+    "nombre": "VARA EUCALIPTO ",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 5867820,
+    "localidad": null
+  },
+  {
+    "id": 100761,
+    "nombre": "VARA DE NAVIDAD",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "9000164",
+    "localidad": null
+  },
+  {
+    "id": 100762,
+    "nombre": "VARA DE NAVIDAD",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "9000163",
+    "localidad": null
+  },
+  {
+    "id": 100763,
+    "nombre": "VARA DE NAVIDAD",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "600319",
+    "localidad": null
+  },
+  {
+    "id": 100764,
+    "nombre": "VARA DE NAVIDAD",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 600227,
+    "localidad": null
+  },
+  {
+    "id": 100765,
+    "nombre": "VARA DE NAVIDAD",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": 600263,
+    "localidad": null
+  },
+  {
+    "id": 100766,
+    "nombre": "VARA DE4 BOLITAS DE DIAMANTINA",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "FC01163",
+    "localidad": null
+  },
+  {
+    "id": 100767,
+    "nombre": "VARA DE CEREZO 100 CM",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "0300606",
+    "localidad": null
+  },
+  {
+    "id": 100768,
+    "nombre": "VARA DE CEREZO 100 CM",
+    "categoria": "V14",
+    "precio": 0.0,
+    "stock": 0,
+    "codigo_barras": "0300577",
+    "localidad": null
+  }
+]
